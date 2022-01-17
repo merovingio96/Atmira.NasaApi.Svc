@@ -27,8 +27,8 @@ namespace Atmira.NasaApi.Svc.Controllers.V1
         {
             try
             {
-                if (days < 1 || days > 7)
-                    return BadRequest();
+                if (!_asteroidsService.IsValidDay(days))
+                    return StatusCode(StatusCodes.Status400BadRequest, "Query param value of 'days' must be between 1 and 7");
 
                 return Ok(_asteroidsService.GetAsteroids(days));
             }

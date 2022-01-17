@@ -5441,11 +5441,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abrah\\source\\repos\\Atmira.NasaApi.Svc\\Atmira.NasaApi.Svc\\Atmira.NasaApi.Svc.csproj",
+      "projectUniqueName": "C:\\Users\\abrah\\source\\Atmira.NasaApi.Svc\\Atmira.NasaApi.Svc\\Atmira.NasaApi.Svc.csproj",
       "projectName": "Atmira.NasaApi.Svc",
-      "projectPath": "C:\\Users\\abrah\\source\\repos\\Atmira.NasaApi.Svc\\Atmira.NasaApi.Svc\\Atmira.NasaApi.Svc.csproj",
+      "projectPath": "C:\\Users\\abrah\\source\\Atmira.NasaApi.Svc\\Atmira.NasaApi.Svc\\Atmira.NasaApi.Svc.csproj",
       "packagesPath": "C:\\Users\\abrah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abrah\\source\\repos\\Atmira.NasaApi.Svc\\Atmira.NasaApi.Svc\\obj\\",
+      "outputPath": "C:\\Users\\abrah\\source\\Atmira.NasaApi.Svc\\Atmira.NasaApi.Svc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

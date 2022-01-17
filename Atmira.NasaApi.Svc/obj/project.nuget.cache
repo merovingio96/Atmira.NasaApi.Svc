@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sCFwi49mpJGUt43k2nQschnYhXHvoWV07NjAqMgxjSmqyu+WRSjSmCV4QJJdu42KrURc9ZrLxWQvvrKJWYE+fg==",
+  "dgSpecHash": "8xEJnxzCv8MsrEWOQB4ZfY90459WsgsAt4Dmv8R+4hiAdB4Ta2vwN0ol6AYlHxyWsRNUaKEeKezTMT3ybF2GPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abrah\\source\\repos\\Atmira.NasaApi.Svc\\Atmira.NasaApi.Svc\\Atmira.NasaApi.Svc.csproj",
+  "projectFilePath": "C:\\Users\\abrah\\source\\Atmira.NasaApi.Svc\\Atmira.NasaApi.Svc\\Atmira.NasaApi.Svc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abrah\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\abrah\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

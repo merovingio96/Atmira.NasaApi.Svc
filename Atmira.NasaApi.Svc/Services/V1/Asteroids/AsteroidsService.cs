@@ -19,6 +19,9 @@ namespace Atmira.NasaApi.Svc.Services.V1.Asteroids
             _mapper = mapper;
         }
 
+        public bool IsValidDay(int days) => 
+            days >= 1 && days <= 7;
+
         public List<Asteroid> GetAsteroids(int days)
         {
             try
